@@ -5,6 +5,6 @@
     <version value="2"/><!--用于设定数据库的版本-->
 
     <list> <!--用于设定数据库的映射关系-->
-        <mapping class="com.example.testscroll.model.MyPage"/>
+        <mapping class="com.example.administrator.myapplication.model.MyPage"/>
     </list>
 </litepal>

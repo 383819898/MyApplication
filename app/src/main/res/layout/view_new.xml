@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal" >
 
-    <com.example.testscroll.view.ReadView
+    <com.example.administrator.myapplication.view.ReadView
         android:id="@+id/textview"
         android:layout_width="0dp"
         android:layout_height="match_parent"
